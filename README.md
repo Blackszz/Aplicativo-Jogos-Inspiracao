@@ -10,3 +10,21 @@
 
 # Wiki do Projeto
 
+- [1- Tela Inicial]  
+    - [1. Informações Gerais]  
+    - [1.1. Título do Jogo]  
+    - [1.2. Plataforma]  
+    - [1.3. Gênero]  
+    - [1.4. Público-Alvo]  
+    - [1.5. Visão Geral do Jogo]
+
+- [2- Tela de Informações]  
+    - [2.1. Regras Básicas]  
+    - [2.2. Controles]  
+    - [2.3. Objetivos e Metas]
+
+- [3- Outros]  
+    - [3.1. História Principal]  
+    - [3.2. Personagens]  
+    - [3.3. Cenários]  
+    - [3.4. Missões e Quests]
