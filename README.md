@@ -10,13 +10,10 @@
 
 # Wiki do Projeto
 
-- [1- Tela Inicial]  
-    - [1. Informações Gerais]  
-    - [1.1. Título do Jogo]  
-    - [1.2. Plataforma]  
-    - [1.3. Gênero]  
-    - [1.4. Público-Alvo]  
-    - [1.5. Visão Geral do Jogo]
+- [1- Tela Inicial]  ()
+    - [1.1- Widgets de texto:]  ()
+    - [1.2- Widgets de imagem:]  ()
+    - [1.3 Widgets de botão:]  ()
 
 - [2- Tela de Informações]  
     - [2.1. Regras Básicas]  
