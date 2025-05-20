@@ -16,11 +16,11 @@
     - [1.3 Widgets de botão:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/1%E2%80%90-Tela-inicial#13-widgets-de-bot%C3%A3o)
 
 - [2- Tela de Informações]()
-    - [2.1- Widgets de texto:]()
-    - [2.2- Widgets de imagem:]()
-    - [2.3- Widgets de botão:]()
-    - [2.4- Scroll:]()
-    - [2.5- Imagens:]()
+    - [2.1- Widgets de texto:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/2%E2%80%90-Tela-de-Informa%C3%A7%C3%B5es#21--widgets-de-texto)
+    - [2.2- Widgets de imagem:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/2%E2%80%90-Tela-de-Informa%C3%A7%C3%B5es#22--widgets-de-imagem)
+    - [2.3- Widgets de botão:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/2%E2%80%90-Tela-de-Informa%C3%A7%C3%B5es#23--widgets-de-bot%C3%A3o)
+    - [2.4- Scroll:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/2%E2%80%90-Tela-de-Informa%C3%A7%C3%B5es#24--scroll)
+    - [2.5- Imagens:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/2%E2%80%90-Tela-de-Informa%C3%A7%C3%B5es#25--imagens)
 
 - [3- Outros]()
     - [3.1- Mapa de interação:]()
