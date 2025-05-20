@@ -1,4 +1,4 @@
-# Aplicativo-Jogos-Inspiracao
+# Aplicativo-Jogos-Inspiração
 
 ### Guilherme Santos
 ### Matheus Henrique 
