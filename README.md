@@ -10,20 +10,18 @@
 
 # Wiki do Projeto
 
-- [1- Tela Inicial]  ()
-    - [1.1- Widgets de texto:]  ()
-    - [1.2- Widgets de imagem:]  ()
-    - [1.3 Widgets de botão:]  ()
+- [1- Tela Inicial]()
+    - [1.1- Widgets de texto:]()
+    - [1.2- Widgets de imagem:]()
+    - [1.3 Widgets de botão:]()
 
-- [2- Tela de Informações]  ()
-    - [2.1- Widgets de texto:]  ()
-    - [2.2- Widgets de imagem:]  ()
+- [2- Tela de Informações]()
+    - [2.1- Widgets de texto:]()
+    - [2.2- Widgets de imagem:]()
     - [2.3- Widgets de botão:]()
     - [2.4- Scroll:]()
     - [2.5- Imagens:]()
 
 - [3- Outros]  
-    - [3.1. História Principal]  
-    - [3.2. Personagens]  
-    - [3.3. Cenários]  
-    - [3.4. Missões e Quests]
+    - [3.1- Mapa de interação:]()
+    - [3.2- Vídeo:]()
