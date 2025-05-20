@@ -15,10 +15,12 @@
     - [1.2- Widgets de imagem:]  ()
     - [1.3 Widgets de botão:]  ()
 
-- [2- Tela de Informações]  
-    - [2.1. Regras Básicas]  
-    - [2.2. Controles]  
-    - [2.3. Objetivos e Metas]
+- [2- Tela de Informações]  ()
+    - [2.1- Widgets de texto:]  ()
+    - [2.2- Widgets de imagem:]  ()
+    - [2.3- Widgets de botão:]()
+    - [2.4- Scroll:]()
+    - [2.5- Imagens:]()
 
 - [3- Outros]  
     - [3.1. História Principal]  
