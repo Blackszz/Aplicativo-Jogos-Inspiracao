@@ -10,6 +10,3 @@
 
 # Wiki do Projeto
 
-## 1. Widgets de texto:
-
-## 2. widgets de imagem:
