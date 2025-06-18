@@ -26,3 +26,9 @@
     - [3.1- Mapa de interação:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/3%E2%80%90-Outros#31--mapa-de-intera%C3%A7%C3%A3o)
     - [3.2- Vídeo:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/3%E2%80%90-Outros#32--v%C3%ADdeo)
     - [3.3- Diagrama de classe:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/3%E2%80%90-Outros#33--diagrama-de-classe)
+ 
+- [4- Flutter](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/3%E2%80%90-Outros)
+    - [4.1- Aplicativo flutter:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/3%E2%80%90-Outros#31--mapa-de-intera%C3%A7%C3%A3o)
+    - [4.2- Widgets utilizados:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/3%E2%80%90-Outros#32--v%C3%ADdeo)
+    - [4.3- Código:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/3%E2%80%90-Outros#33--diagrama-de-classe)
+    - [4.4- Vídeo:](https://github.com/Blackszz/Aplicativo-Jogos-Inspiracao/wiki/3%E2%80%90-Outros#33--diagrama-de-classe)
